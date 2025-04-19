@@ -113,7 +113,8 @@ game_four_score = 105
 
 # Don't touch above this line
 
-average_score = (game_one_score + game_two_score + game_three_score + game_four_score) / 4
+average_score = (game_one_score + game_two_score +
+                 game_three_score + game_four_score) / 4
 
 # Don't touch below this line
 
